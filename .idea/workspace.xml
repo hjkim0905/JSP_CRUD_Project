@@ -10,9 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f2f115-97df-4ea9-8695-f3361bda09df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crud/common/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crud/common/JDBCUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +188,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699968983582</updated>
       <workItem from="1699969999604" duration="363000" />
-      <workItem from="1699970369386" duration="2773000" />
+      <workItem from="1699970369386" duration="4083000" />
     </task>
     <servers />
   </component>
