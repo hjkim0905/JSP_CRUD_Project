@@ -51,6 +51,7 @@
 	<th>Content</th>
 	<th>Regdate</th>
 	<th>Moddate</th>
+	<th>View</th>
 	<th>Edit</th>
 	<th>Delete</th>
 </tr>
@@ -63,11 +64,12 @@
 		<td>${u.getContent()}</td>
 		<td>${u.getRegdate()}</td>
 		<td>${u.getModdate()}</td>
+		<td><a href="view.jsp?id=${u.getSeq()}">View</a></td>
 		<td><a href="editform.jsp?id=${u.getSeq()}">Edit</a></td>
 		<td><a href="javascript:delete_ok('${u.getSeq()}')">Delete</a></td>
 	</tr>
 </c:forEach>
 </table>
-<br/><a href="addpostform.jsp">Add New Post</a>
+<br/><a href="addpostform.jsp">게시글 추가</a>
 </body>
 </html>
