@@ -10,8 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f2f115-97df-4ea9-8695-f3361bda09df" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/827f7ffb-2422-457c-9967-4a3d84f3f403.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/827f7ffb-2422-457c-9967-4a3d84f3f403.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/827f7ffb-2422-457c-9967-4a3d84f3f403/storage_v2/_src_/schema/p231_22100233.gGJTQA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/827f7ffb-2422-457c-9967-4a3d84f3f403/storage_v2/_src_/schema/p231_22100233.gGJTQA.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crud/bean/BoardVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crud/bean/BoardVO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crud/dao/BoardDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crud/dao/BoardDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/addpostform.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/addpostform.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/editform.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/editform.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/posts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/posts.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +195,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699968983582</updated>
       <workItem from="1699969999604" duration="363000" />
-      <workItem from="1699970369386" duration="5562000" />
+      <workItem from="1699970369386" duration="8586000" />
     </task>
     <servers />
   </component>

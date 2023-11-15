@@ -770,8 +770,8 @@ p231_22100233|schema||p231_22100233||UPDATE|G</Grants>
       <CollationName>utf8_general_ci</CollationName>
     </schema>
     <schema id="237" parent="1" name="p231_22100233">
-      <IntrospectionTimestamp>2023-11-16.03:08:12</IntrospectionTimestamp>
-      <LocalIntrospectionTimestamp>2023-11-15.09:08:12</LocalIntrospectionTimestamp>
+      <IntrospectionTimestamp>2023-11-16.04:12:25</IntrospectionTimestamp>
+      <LocalIntrospectionTimestamp>2023-11-15.10:12:25</LocalIntrospectionTimestamp>
       <CollationName>utf8_general_ci</CollationName>
     </schema>
     <user id="238" parent="1" name="p231_22100233"/>
@@ -788,7 +788,7 @@ p231_22100233|schema||p231_22100233||UPDATE|G</Grants>
       <CollationName>utf8_general_ci</CollationName>
     </table>
     <column id="242" parent="239" name="seq">
-      <AutoIncrement>3</AutoIncrement>
+      <AutoIncrement>1</AutoIncrement>
       <DasType>int(11)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
