@@ -10,12 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f2f115-97df-4ea9-8695-f3361bda09df" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/827f7ffb-2422-457c-9967-4a3d84f3f403.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/827f7ffb-2422-457c-9967-4a3d84f3f403.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/827f7ffb-2422-457c-9967-4a3d84f3f403/storage_v2/_src_/schema/p231_22100233.gGJTQA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/827f7ffb-2422-457c-9967-4a3d84f3f403/storage_v2/_src_/schema/p231_22100233.gGJTQA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/editform.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/editform.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/posts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/posts.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/addpostform.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/addpostform.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -89,6 +88,11 @@
     ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/upload" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.82" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.82" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
@@ -190,7 +194,8 @@
       <workItem from="1699969999604" duration="363000" />
       <workItem from="1699970369386" duration="13089000" />
       <workItem from="1700062048770" duration="55000" />
-      <workItem from="1700185530397" duration="736000" />
+      <workItem from="1700185530397" duration="902000" />
+      <workItem from="1700222116183" duration="5401000" />
     </task>
     <servers />
   </component>
