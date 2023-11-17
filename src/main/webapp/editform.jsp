@@ -19,10 +19,10 @@
 <form action="editpost.jsp" method="post">
 <input type="hidden" name="seq" value="<%=u.getSeq() %>"/>
 <table>
-	<tr><td>Category:</td><td><input type="text" name="category" value="<%= u.getCategory()%>"/></td></tr>
-	<tr><td>Title:</td><td><input type="text" name="title" value="<%= u.getTitle()%>"/></td></tr>
-	<tr><td>Writer:</td><td><input type="text" name="writer" value="<%= u.getWriter()%>" /></td></tr>
-	<tr><td>Content:</td><td><textarea cols="50" rows="5" name="content"><%= u.getContent()%></textarea></td></tr>
+	<tr><td>카테고리:</td><td><input type="text" name="category" value="<%= u.getCategory()%>"/></td></tr>
+	<tr><td>제목:</td><td><input type="text" name="title" value="<%= u.getTitle()%>"/></td></tr>
+	<tr><td>작성자:</td><td><input type="text" name="writer" value="<%= u.getWriter()%>" /></td></tr>
+	<tr><td>내용:</td><td><textarea cols="50" rows="5" name="content"><%= u.getContent()%></textarea></td></tr>
 	<tr><td colspan="2"><input type="submit" value="수정"/>
 	<input type="button" value="취소" onclick="history.back()"/></td></tr>
 </table>

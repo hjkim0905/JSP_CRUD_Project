@@ -36,7 +36,7 @@
 </script>
 </head>
 <body>
-<h1>자유게시판</h1>
+<h1>한동대학교 자유게시판</h1>
 <%
 	BoardDAO boardDAO = new BoardDAO();
 	List<BoardVO> list = boardDAO.getBoardList();
@@ -44,16 +44,16 @@
 %>
 <table id="list" width="90%">
 <tr>
-	<th>Id</th>
-	<th>Category</th>
-	<th>Title</th>
-	<th>Writer</th>
-	<th>Content</th>
-	<th>Regdate</th>
-	<th>Moddate</th>
-	<th>View</th>
-	<th>Edit</th>
-	<th>Delete</th>
+	<th>번호</th>
+	<th>카테고리</th>
+	<th>제목</th>
+	<th>작성자</th>
+	<th>내용</th>
+	<th>등록일</th>
+	<th>수정일</th>
+	<th>상세보기</th>
+	<th>수정</th>
+	<th>삭제</th>
 </tr>
 <c:forEach items="${list}" var="u">
 	<tr>
